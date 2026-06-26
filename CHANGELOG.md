@@ -1,5 +1,4 @@
 ## v1.1.0
 
-   ## Unreleased
-   - <bullet describing the introduction and history updates>
-   - <bullet describing the conflict resolution in docs/collaboration.md>
+- Updated the introduction and history documents with new collaborative content.
+- Resolved the merge conflict in docs/collaboration.md and improved the collaboration guide.
